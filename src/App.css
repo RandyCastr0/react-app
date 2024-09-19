@@ -21,8 +21,8 @@ body {
 
 
 .logo-pic{
-  height: 10rem;
-  width: 12rem;
+  height: 14rem;
+  width: 14rem;
   
 }
 
@@ -31,7 +31,7 @@ body {
   top: 0;
   left: 0;
   width: 100vw;
-  height: 15%;
+  height: 11%;
   background-color: #ACAD94;
   display: flex;
   overflow: hidden;
@@ -42,7 +42,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 75rem;
+  width: 80rem;
   height: 100%;
 
 }
