@@ -18,8 +18,12 @@ body {
   border-radius: 10px;
 }
 
-.Logo {
-  display: flex;
+
+
+.logo-pic{
+  height: 10rem;
+  width: 12rem;
+  
 }
 
 .navbar-container {
@@ -27,9 +31,10 @@ body {
   top: 0;
   left: 0;
   width: 100vw;
-  height: 10%;
+  height: 15%;
   background-color: #ACAD94;
   display: flex;
+  overflow: hidden;
 
 }
 
@@ -37,7 +42,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 79rem;
+  width: 75rem;
   height: 100%;
 
 }

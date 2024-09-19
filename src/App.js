@@ -3,7 +3,7 @@ import "./App.css"
 import search from "./search.svg"
 import MovieCard from "./moviecard";
 import Navbar from "./navbar.jsx"
-import Logo from "./logo.jsx";
+
 
 //2aa7dde4
 
@@ -29,7 +29,7 @@ searchMovies('Spiderman')
     return(
         <div className="app">
             <div className="navbar-container">
-                <Logo />
+     
                 <Navbar className="navbar"/>
             </div>
             
